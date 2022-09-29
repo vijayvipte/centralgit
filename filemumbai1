@@ -1,1 +1,8 @@
 this is second code from mumbai side
+void main()
+int a=10;
+int b=20;
+Int sum=30+a+b;
+Printf "\nTotal of this sum is:"
+
+)
